@@ -1,0 +1,87 @@
+PA1 - CONTROL DE PRODUCTOS
+Los datos se mantienen durante esta ejecucion.
+
+1. Registrar producto
+2. Listar productos
+3. Consultar producto y stock
+4. Ingresar stock
+5. Retirar stock
+6. Mostrar productos con stock bajo
+7. Mostrar resumen del inventario
+0. Salir
+Opcion: Codigo: Nombre: Precio unitario en soles (ej. 12.50): Stock inicial: Stock minimo: Producto registrado correctamente.
+A01 | Arroz | Precio: S/ 4.50 | Stock: 10 | Minimo: 3 | DISPONIBLE
+
+1. Registrar producto
+2. Listar productos
+3. Consultar producto y stock
+4. Ingresar stock
+5. Retirar stock
+6. Mostrar productos con stock bajo
+7. Mostrar resumen del inventario
+0. Salir
+Opcion: Codigo: Nombre: Precio unitario en soles (ej. 12.50): Stock inicial: Stock minimo: Producto registrado correctamente.
+B01 | Aceite | Precio: S/ 8.00 | Stock: 2 | Minimo: 2 | STOCK BAJO
+
+1. Registrar producto
+2. Listar productos
+3. Consultar producto y stock
+4. Ingresar stock
+5. Retirar stock
+6. Mostrar productos con stock bajo
+7. Mostrar resumen del inventario
+0. Salir
+Opcion: Codigo del producto: Cantidad: Operacion realizada. Stock actual: 3
+
+1. Registrar producto
+2. Listar productos
+3. Consultar producto y stock
+4. Ingresar stock
+5. Retirar stock
+6. Mostrar productos con stock bajo
+7. Mostrar resumen del inventario
+0. Salir
+Opcion: Codigo del producto: Cantidad: Operacion realizada. Stock actual: 5
+
+1. Registrar producto
+2. Listar productos
+3. Consultar producto y stock
+4. Ingresar stock
+5. Retirar stock
+6. Mostrar productos con stock bajo
+7. Mostrar resumen del inventario
+0. Salir
+Opcion: Codigo del producto: A01 | Arroz | Precio: S/ 4.50 | Stock: 5 | Minimo: 3 | DISPONIBLE
+
+1. Registrar producto
+2. Listar productos
+3. Consultar producto y stock
+4. Ingresar stock
+5. Retirar stock
+6. Mostrar productos con stock bajo
+7. Mostrar resumen del inventario
+0. Salir
+Opcion: B01 | Aceite | Precio: S/ 8.00 | Stock: 2 | Minimo: 2 | STOCK BAJO
+
+1. Registrar producto
+2. Listar productos
+3. Consultar producto y stock
+4. Ingresar stock
+5. Retirar stock
+6. Mostrar productos con stock bajo
+7. Mostrar resumen del inventario
+0. Salir
+Opcion: Productos registrados: 2
+Unidades totales: 7
+Productos con stock bajo: 1
+Valor total del inventario: S/ 38.50
+
+1. Registrar producto
+2. Listar productos
+3. Consultar producto y stock
+4. Ingresar stock
+5. Retirar stock
+6. Mostrar productos con stock bajo
+7. Mostrar resumen del inventario
+0. Salir
+Opcion: Programa finalizado.

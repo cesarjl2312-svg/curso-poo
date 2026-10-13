@@ -1,0 +1,10 @@
+.tools/
+tmp/
+build/
+dist/
+*.class
+*.log
+.idea/
+.vscode/
+*.iml
+nbproject/private/
