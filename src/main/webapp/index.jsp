@@ -119,6 +119,8 @@
             <li>El descuento total no supera el <%= Cotizacion.TOPE_DESCUENTO %> %.</li>
             <li>Pago en 3, 6 o 12 cuotas con interés de <%= Cotizacion.TASA_MENSUAL * 100 %> % mensual.</li>
         </ul>
+        <h3>Otras herramientas</h3>
+        <p><a href="calculadora.jsp">Calculadora de operaciones y validaciones (Math y String)</a></p>
     </aside>
 </main>
 

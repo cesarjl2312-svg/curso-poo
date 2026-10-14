@@ -19,7 +19,7 @@ Mini aplicación web de **cotización y validación de datos** desarrollada para
 
 | Integrante | Parte del caso que resuelve |
 |---|---|
-| **César Augusto Maguiña Robles** | Creación del proyecto Maven con Apache Tomcat, vistas JSP (`index.jsp`, `resultado.jsp`, fragmentos de encabezado y pie), hoja de estilos y flujo de datos entrada → procesamiento → salida. |
+| **César Augusto Maguiña Robles** | Creación del proyecto Maven con Apache Tomcat, primera versión funcional (calculadora de operaciones con `Math` y validaciones con `String`: `calculadora.jsp`), vistas JSP (`index.jsp`, `resultado.jsp`, fragmentos de encabezado y pie), hoja de estilos y flujo de datos entrada → procesamiento → salida. |
 | **Angel Fernando Reyes Moreno** | Clases de lógica: `ProCadenas` (String), `ProAritmetica` (Math), `ValidadorDatos`, modelo (`Cliente`, `Producto`, `Catalogo`, `Cotizacion`), pruebas por consola (`PruebasCotizador`) y documentación. |
 
 ---
@@ -108,6 +108,8 @@ curso-poo/
     └── webapp/
         ├── index.jsp              # ENTRADA: formulario
         ├── resultado.jsp          # PROCESAMIENTO y SALIDA
+        ├── calculadora.jsp        # primera versión: calculadora Math y String
+        ├── calculadora-resultado.jsp
         ├── css/estilos.css
         └── WEB-INF/jspf/          # encabezado y pie incluidos con <%@ include %>
 ```
@@ -127,6 +129,7 @@ curso-poo/
 3. Copiar `target/CotizadorWeb.war` a la carpeta `webapps/` de Tomcat.
 4. Iniciar Tomcat con `bin/startup.bat` (Windows) o `bin/startup.sh` (Linux/Mac).
 5. Abrir en el navegador: **http://localhost:8080/CotizadorWeb/**
+6. La calculadora de la primera versión está en **http://localhost:8080/CotizadorWeb/calculadora.jsp** (también enlazada desde la página de inicio).
 
 ### Opción 2: ejecutar desde el IDE
 
