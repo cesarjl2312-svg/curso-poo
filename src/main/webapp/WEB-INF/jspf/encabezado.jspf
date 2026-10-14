@@ -1,0 +1,7 @@
+<%@ page pageEncoding="UTF-8" %>
+<header class="encabezado">
+    <div class="contenedor-encabezado">
+        <a href="index.jsp" class="marca">Cotizador<span>Web</span></a>
+        <p>Mini aplicación de cotización y validación de datos con JSP y Apache Tomcat</p>
+    </div>
+</header>
