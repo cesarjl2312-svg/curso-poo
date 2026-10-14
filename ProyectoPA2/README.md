@@ -5,7 +5,7 @@
 * **Curso:** Programación Orientada a Objetos
 * **Código del Curso:** 30626
 * **Docente:** Wilder Julio Espinoza Bravo
-* **Evaluación:** PA2 (Producto Académico 2)
+* **Evaluación:** PA2 
 
 ---
 
@@ -18,7 +18,7 @@
 ---
 
 ## Descripción del Trabajo
-Aplicación web desarrollada con tecnología **Java Servlets y JSP (Java EE / Jakarta EE)** ejecutándose sobre un servidor **Apache Tomcat**. 
+Aplicación web desarrollada con tecnología **Java Servlets y JSP** ejecutándose sobre un servidor **Apache Tomcat**. 
 
 El sistema cumple con los requerimientos de una propuesta mínima institucional que permite:
 1. **Validación y Manipulación de Cadenas (`String`):** Recibe un texto o frase mediante un formulario web y procesa su longitud, conversión a mayúsculas, inversión de caracteres y validación de palabras clave (como "java").
@@ -44,7 +44,7 @@ Sigue estos pasos para desplegar y ejecutar el proyecto localmente:
 
 ### 3. Despliegue en Apache Tomcat
 1. Copia el archivo `ProyectoCalculadoraWeb.war` ubicado en la carpeta `target/`.
-2. Pégalo dentro de la carpeta **`webapps/`** de tu servidor Apache Tomcat (ej. `apache-tomcat-xx/webapps/`).
+2. Pégalo dentro de la carpeta **`webapps/`** de tu servidor Apache Tomcat.
 3. Inicia o reinicia el servidor Tomcat ejecutando el archivo `startup.bat` (en Windows) dentro de la carpeta `bin/` de Tomcat.
 
 ### 4. Ejecución en el Navegador
