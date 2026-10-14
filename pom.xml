@@ -4,9 +4,11 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.lideratecacademy</groupId>
-    <artifactId>ProyectoCalculadoraWeb</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <groupId>pe.isil.poo</groupId>
+    <artifactId>CotizadorWeb</artifactId>
+    <version>1.0</version>
+    <name>CotizadorWeb</name>
+    <description>PA2 POO: mini aplicacion web de cotizacion y validacion de datos con JSP, Tomcat, Math y String</description>
     <packaging>war</packaging>
 
     <properties>
@@ -25,8 +27,13 @@
     </dependencies>
 
     <build>
-        <finalName>ProyectoCalculadoraWeb</finalName>
+        <finalName>CotizadorWeb</finalName>
         <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.13.0</version>
+            </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-war-plugin</artifactId>
