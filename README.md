@@ -11,9 +11,7 @@
 
 ## Integrantes del Equipo
 * Angel Fernando Reyes Moreno
-* Flor De Venus Torres Condori
-* Donny Scrach Gaspar Araujo
-* **César Augusto Maguiña Robles**
+* César Augusto Maguiña Robles
 
 ---
 
