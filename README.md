@@ -15,6 +15,8 @@ Mini aplicación web de **cotización y validación de datos** desarrollada para
 
 🎥 **YouTube:** _pendiente (pegar aquí el enlace del video)_
 
+Presentación usada en el video: [`docs/PA2_Cotizador_Web.pptx`](docs/PA2_Cotizador_Web.pptx) | Guion: [`docs/GUION_VIDEO.md`](docs/GUION_VIDEO.md)
+
 ## Integrantes y responsabilidades
 
 | Integrante | Parte del caso que resuelve |
@@ -91,6 +93,7 @@ curso-poo/
 ├── docs/
 │   ├── PRUEBAS.md                 # casos de prueba y resultados
 │   ├── GUION_VIDEO.md             # guion de la exposición
+│   ├── PA2_Cotizador_Web.pptx     # presentación del video
 │   └── evidencias/                # capturas de la aplicación funcionando
 └── src/main/
     ├── java/pe/isil/poo/cotizador/
