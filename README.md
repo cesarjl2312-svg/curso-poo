@@ -13,7 +13,7 @@ Mini aplicación web de **cotización y validación de datos** desarrollada para
 
 ## Video de exposición
 
-🎥 **YouTube:** _pendiente (pegar aquí el enlace del video)_
+🎥 **YouTube:** _pendiente (https://www.youtube.com/watch?v=xae9w4oHmHo)_
 
 Presentación usada en el video: [`docs/PA2_Cotizador_Web.pptx`](docs/PA2_Cotizador_Web.pptx) | Guion: [`docs/GUION_VIDEO.md`](docs/GUION_VIDEO.md)
 
